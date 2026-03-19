@@ -1,0 +1,63 @@
+ 2044  brew install --cask miniconda
+ 2045  conda init zsh
+ 2046  brew install fzf
+ 2047  $(brew --prefix)/opt/fzf/install
+ 2048  exit
+ 2049  conda --version
+ 2050  cd
+ 2051  cd Documents
+ 2052  clear
+ 2053  conda create -n facerec python=3.10 -y
+ 2054  conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/main\n    conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/r
+ 2055  conda create -n facerec python=3.10 -y
+ 2056  conda activate facerec
+ 2057  pip install opencv-python requests numpy
+ 2058  which python
+ 2059  conda deactivate facerec
+ 2060  conda deactivate 
+ 2061  ls | grep facerec
+ 2062  ls -a | grep face
+ 2063  ls -a
+ 2064  cd Projects
+ 2065  ls
+ 2066  clear
+ 2067  ls
+ 2068  conda create -n facerec python=3.10 -y
+ 2069  conda activate facerec
+ 2070  pip install opencv-python requests numpy
+ 2071  which python
+ 2072  git clone https://github.com/exadel-inc/CompreFace.git\ncd CompreFace
+ 2073  docker --version
+ 2074  brew install --cask docker
+ 2075  brew update && brew upgrade && brew install --cask docker
+ 2076  brew install --cask docker
+ 2077  docker --version
+ 2078  docker compose version
+// open docker desktop now (imp step)
+ 2079  ls
+ 2080  docker compose up -d
+ 2081  docker ps
+ 2082  clear
+ 2083  touch test_recognize.py
+ 2084  nano test_recognize.py
+ 2085  ls |  grep test.jpg
+ 2086  python test_recognize.py
+ 2087  nano test_registration.py
+ 2088  ls |  grep test.jpg
+ 2089  cat test_recognize.py
+ 2090  cat test_registration.py
+ 2091  python test_recognize.py
+ 2092  python test_registration.py
+ 2093  nano test_registration.py
+ 2094  python test_registration.py
+ 2095  python test_recognize.py
+ 2096  nano test_recognize.py
+ 2097  python test_recognize.py
+ 2098  clear
+ 2099  ls | grep .jpg
+ 2100  ls | grep .py
+ 2101  curl http://localhost:8000
+ 2102  conda info --envs
+ 2103  clear
+ 2104  echo "Face Recognition service up and working"
+ 2105  cat history > face_recognition_setup.log

@@ -1,0 +1,2105 @@
+    1  ls
+    2  update
+    3  brew install neofetch
+    4  brew
+    5  exit
+    6  where brew
+    7  /opt/homebrew/bin/brew doctor
+    8  git --version
+    9  exit
+   10  brew doctor
+   11  git --version
+   12  npm --version
+   13  xcode --version
+   14  brew --version
+   15  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   16  (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/suraj/.zprofile
+   17  eval "$(/opt/homebrew/bin/brew shellenv)"
+   18  brew --version
+   19  exit
+   20  brew analytics off
+   21  exit
+   22  brew install vscode
+   23  brew install --cask visual-studio-code
+   24  exit
+   25  brew install nodejs
+   26  brew install nodejs
+   27  node --version
+   28  node --version
+   29  npm --version
+   30  exit
+   31  ls
+   32  exit
+   33  vscode
+   34  brew install vscode
+   35  brew install --cask visual-studio-code
+   36  code .
+   37  cd documents
+   38  ls
+   39  mkdir code-repos
+   40  cd code-repos
+   41  code .
+   42  ls
+   43  cd Documents
+   44  ls
+   45  cd ..
+   46  cd Downloads
+   47  ls
+   48  cd ..
+   49  ls
+   50  tree
+   51  ls
+   52  cd Moview
+   53  cd Movies
+   54  ls
+   55  cd ..
+   56  ls
+   57  cd Desktop
+   58  ls
+   59  exit
+   60  ls
+   61  git --version
+   62  exit
+   63  git clone https://github.com/suraj-singh12/aws-notes.git
+   64  cd 
+   65  git config --global user.name=suraj-singh12
+   66  git config --global --user.name=suraj-singh12
+   67  git config --global user.name suraj-singh12
+   68  git config --global user.email surajsingh5092@gmail.com
+   69  git pull 
+   70  git add .
+   71  git add .
+   72  git add .
+   73  git commit -m "updated Readme"
+   74  git push origin main
+   75  ls -a
+   76  brew install wget
+   77  wget
+   78  wget --help
+   79  exit
+   80  htop
+   81  top
+   82  brew install --cask warp
+   83  brew install --cask warp
+   84  brew uninstall --cask warp
+   85  brew list
+   86  brew install --cask iterm2
+   87  ls
+   88  tree
+   89  sudo
+   90  sudo apt 
+   91  sudo
+   92  brew remove --cask iterm2
+   93  brew install --cask tree
+   94  tree
+   95  brew install tree
+   96  tree
+   97  cls
+   98  clear
+   99  brew remove tree
+  100  brew uninstall tree
+  101  exit
+  102  apt
+  103  java --version
+  104  npm --version
+  105  g++ --version
+  106  gcc --version
+  107  brew install java
+  108  sudo ln -sfn /opt/homebrew/opt/openjdk/libexec/openjdk.jdk /Library/Java/JavaVirtualMachines/openjdk.jdk
+  109  java --version
+  110  jdk --version
+  111  jre --version
+  112  cat $PATH
+  113  cat $PATH | grep openjdk
+  114  grep
+  115  cat .zshrc | grep openjdk
+  116  echo 'export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"' >> ~/.zshrc
+  117  export CPPFLAGS="-I/opt/homebrew/opt/openjdk/include"
+  118  jdk --version
+  119  java --version
+  120  exit
+  121  brew install --cask intellij-idea
+  122  exit
+  123  brew install --cask intellij-idea-ce
+  124  java --version
+  125  exit
+  126  javac --version
+  127  exit
+  128  npx create-react-app my-new-app
+  129  npx create-react-app my-new-app
+  130  ls
+  131  mv my-new-app Documents/
+  132  cd Documents
+  133  ls
+  134  cd my-new-app
+  135  ls
+  136  cd ..
+  137  ls
+  138  mv my-new-app code-repos
+  139  cd code-repos
+  140  cd my-new-app
+  141  ls
+  142  npm start
+  143  brew uninstall java
+  144  java --version
+  145  brew uninstall openjdk
+  146  brew uninstall openjdk
+  147  jdk --versino
+  148  jdk --version
+  149  jre --version
+  150  java --version
+  151  java --version
+  152  java --version
+  153  exit
+  154  cd ..
+  155  ls
+  156  cd suraj
+  157  ls
+  158  ls -a
+  159  cd ..
+  160  cd ..
+  161  ls
+  162  cd opt
+  163  ls
+  164  cd homebrew
+  165  ls
+  166  cd ..
+  167  cd ..
+  168  ls
+  169  cd Library
+  170  ls
+  171  cd ..
+  172  ls | grep linux
+  173  ls -a | grep linux
+  174  ls
+  175  cd home
+  176  l
+  177  ls
+  178  cd ..
+  179  cd 
+  180  ls
+  181  cd ..
+  182  ls
+  183  cd ..
+  184  ls
+  185  exit
+  186  cd downloa
+  187  cd Downloads
+  188  ls
+  189  code .
+  190  ls
+  191  ls
+  192   ls -a
+  193  ls -a
+  194  cd spring-boot
+  195  ls
+  196  cd ..
+  197  cd ..
+  198  ls
+  199  cd Desktop
+  200  ls
+  201  cd ../Downloads
+  202  ls
+  203  cd ../Movies
+  204  ls -a
+  205  cd TV
+  206  ls
+  207  cd ..
+  208  cd ..
+  209  ls
+  210  ls Pictures -a
+  211  ls -a Pictures/
+  212  ls -a Documents
+  213  ls -a Downloads
+  214  cd .DS_Store
+  215  ls
+  216  cd Downloads
+  217  cd .DS_Store
+  218  ls
+  219  cd spring-boot
+  220  ls
+  221  cd ..
+  222  exit
+  223  cd Downloads
+  224  ls
+  225  ls -a
+  226  cd .DS_Store
+  227  ls
+  228  cd .DS_Store
+  229  cat .DS_Store
+  230  cls
+  231  clear
+  232  clear
+  233  brew install --cask alacritty
+  234  exit
+  235  ls
+  236  ls
+  237  cls
+  238  clear
+  239  exit
+  240  brew list
+  241  bre uninstall --cask intellij-idea-ce
+  242  brew uninstall --cask intellij-idea-ce
+  243  brew uninstall --cask intellij-idea-ce
+  244  brew --help
+  245  brew doctor
+  246  brew cleanup
+  247  cls
+  248  clear
+  249  exit
+  250  brew list
+  251  brew list
+  252  brew uninstall intellij-idea
+  253  brew uninstall --cask intellij-idea
+  254  brew list
+  255   exit
+  256  git pull origin main
+  257  git pull origin main
+  258  git add highlighter-extension
+  259  git commit -m "added vscode highlight extension"
+  260  git push origin main
+  261  brew install iterm2
+  262  cls
+  263  clear
+  264  cd ~Library
+  265  cd ~.Library
+  266  cd ~/Library
+  267  ls
+  268  cls
+  269  clear
+  270  cd Containers
+  271  ls
+  272  clear
+  273  xdg-open .
+  274  clear
+  275  cd com.utmapp.UTM
+  276  ls
+  277  cd Data
+  278  ls
+  279  ls
+  280  cd Documents
+  281  ls
+  282  cd Public
+  283  ls
+  284  cat README.txt
+  285  cd ..
+  286  ls
+  287  cd ..
+  288  ls
+  289  cd ..
+  290  ls
+  291  ls -a
+  292  ls -la
+  293  clear
+  294  ls -la
+  295  exit
+  296  git clone https://github.com/suraj-singh12/flipkart-api.git
+  297  cd flipkart-api
+  298  ls
+  299  npm install
+  300  node app.js
+  301  exit
+  302  git clone https://github.com/suraj-singh12/flipkart-project.git
+  303  cd flipkart-project
+  304  ls
+  305  cd flipkart-app
+  306  ls
+  307  npm install
+  308  npm start
+  309  cd ..
+  310  cd ..
+  311  rm -rf flipkart-project
+  312  g++ main.cpp
+  313  ./a.out
+  314  rm -rf a.out
+  315  rm -rf main.cpp
+  316  touch Main.java
+  317  java Main.java
+  318  clear
+  319  java Main.java
+  320  javac Main.java
+  321  java Main
+  322  rm -rf Main.*
+  323  npx create-next-app my-app
+  324  cd m
+  325  cd my-app
+  326  ls
+  327  npm install
+  328  ls
+  329  npm start
+  330  npm start
+  331  npm start
+  332  npm run dev
+  333  clear
+  334  exit
+  335  ls
+  336  cd Downloads
+  337  ls
+  338  cd ../Documents
+  339  ls
+  340  cd ..
+  341  node --version
+  342  npp -version
+  343  npm --version
+  344  ls
+  345  brew install --cask utm
+  346  brew install --cask utm
+  347  exit
+  348  nano .zshrc
+  349  cls
+  350  clear
+  351  cat .zshrc
+  352  java --version
+  353  sh -c "$(wget https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"
+  354  nano .zshrc
+  355  source ~/.zshrc
+  356  exit
+  357  nano .zshrc
+  358  source ~/.zshrc
+  359  ls
+  360  ls -l
+  361  source ~/.zshrc
+  362  ls
+  363  source ~/.zshrc
+  364  ls
+  365  source ~/.zshrc
+  366  ls
+  367  exit
+  368  ls
+  369  ls -a
+  370  cls
+  371  clear
+  372  ls -a
+  373  nano .zshrc
+  374  exit
+  375  ls
+  376  exit
+  377  ls
+  378  source ~/.zshrc
+  379  ls
+  380  source ~/.zshrc
+  381  clear
+  382  ls
+  383  ls -a
+  384  nano ~/.zshrc
+  385  exit
+  386  ls
+  387  dir
+  388  ls -a
+  389  nano ~/.zshrc
+  390  source ~/.zshrc
+  391  ls
+  392  cd Documents
+  393  ls
+  394  cd ..
+  395  cd Downloads
+  396  ls
+  397  source ~/.zshrc
+  398  ls
+  399  dir
+  400  ls
+  401  cd ..
+  402  cd Download
+  403  cd Downloads
+  404  ls
+  405  source ~/.zshrc
+  406  exit
+  407  ls
+  408  cd Downloads
+  409  ls
+  410  source ~/.zshrc
+  411  ls
+  412  cd ..
+  413  ls -a
+  414  source ~/.zshrc
+  415  cd Downloads
+  416  cd ..
+  417  cd Documents
+  418  cd code-repos
+  419  source ~/.zshrc
+  420  cd ..
+  421  pwd
+  422  source ~/.zshrc
+  423  cls
+  424  clear
+  425  ls
+  426  source ~/.zshrc
+  427  clear
+  428  source ~/.zshrc
+  429  clear
+  430  ls
+  431  source ~/.zshrc
+  432  clear
+  433  ls
+  434  source ~/.zshrc
+  435  clear
+  436  ls
+  437  ls -a
+  438  source ~/.zshrc
+  439  clear
+  440  ls
+  441  source ~/.zshrc
+  442  clear
+  443  ls
+  444  source ~/.zshrc
+  445  clear
+  446  ls
+  447  source ~/.zshrc
+  448  ls
+  449  ls -a
+  450  ls -l
+  451  source ~/.zshrc
+  452  nano .zshrc
+  453  ls
+  454  nano ~/.zshrc
+  455  source ~/.zshrc
+  456  nano ~/.zshrc
+  457  exit
+  458  ls
+  459  ls -a
+  460  exit
+  461  cd Documents
+  462  ls
+  463  cd code-repos
+  464  ls
+  465  dir
+  466  tree
+  467  sudo brew install tree
+  468  brew install tree
+  469  tree
+  470  exit
+  471  ls
+  472  ls -a
+  473  ls -l
+  474  clear
+  475  ls
+  476  exit
+  477  ls
+  478  exit
+  479  brew install android-studio
+  480  brew install --cask android-studio
+  481  exit
+  482  npx create-expo-app@latest
+  483  npm start
+  484  npm i
+  485  npx create-expo-app@latest
+  486  npm run web
+  487  brew update
+  488  brew install watchman
+  489  npm run web
+  490  npm run ios
+  491  cls
+  492  clear
+  493  cd ..
+  494  ls
+  495  rm -rf expo-projects
+  496  brew remove --cask android-studio
+  497  ls
+  498  cd ..
+  499  ls
+  500  cd suraj
+  501  ls
+  502  ls  -a
+  503  rm -rf .android
+  504  rm -rf AndroidStudioProjects
+  505  ls -a
+  506  rm -rf .expo
+  507  rm -rf .gradle
+  508  clear
+  509  ls -a
+  510  cd .config
+  511  ls
+  512  cd configstore
+  513  ls
+  514  cd ..
+  515  ls
+  516  ls -a
+  517  ls -la
+  518  ls --help
+  519  ls -help
+  520  ls -man
+  521  ls -lah
+  522  exit
+  523  cd ..
+  524  ls
+  525  cd ..
+  526  ls
+  527  cd Library
+  528  ls
+  529  cd Developer
+  530  ls
+  531  cd CoreSimulator
+  532  ls
+  533  cd ..
+  534  ls
+  535  xcrun simctl list devices
+  536  xcrun simctl delete all
+  537  xcrun simctl delete unavailable
+  538  cd ~Library
+  539  cd ~/Library
+  540  ls
+  541  cd Preference
+  542  cd Preferences
+  543  ls
+  544  ls | grep android
+  545  ls -la | grep android
+  546  ls -lah | grep android
+  547  exit
+  548  cd ~/Library
+  549  ls
+  550  clear
+  551  cd Application\ Support
+  552  ls
+  553  ls -a | grep Android
+  554  ls | grep Google
+  555  cd Google
+  556  ls
+  557  rm -rf AndroidStudio2024.1
+  558  cd ..
+  559  cd Logs
+  560  ls
+  561  cd ..
+  562  cd Logs
+  563  ls
+  564  cd Google
+  565  ls
+  566  rm -rf AndroidStudio2024.1
+  567  cd ..
+  568  cd Caches/
+  569  ls
+  570  ls | grep android
+  571  ls | grep -i android
+  572  ls | grep -i Android
+  573  cd Google
+  574  ls
+  575  rm -rf AndroidStudio2024.1
+  576  cd ..
+  577  cd
+  578  ls -a
+  579  cd .vscode
+  580  ls
+  581  cd cli
+  582  ls
+  583  cd ../extensions
+  584  ls
+  585  exit
+  586  ls
+  587  ls -a
+  588  rm -rf .emulator_console_auth_token
+  589  cd /usr/local
+  590  ls
+  591  cd var
+  592  ls
+  593  brew uninstall android-sdk
+  594  exit
+  595  cls
+  596  clear
+  597  cd /Applications
+  598  ls
+  599  cd /Library/Preference
+  600  cd /Library/Preferences
+  601  ls
+  602  rm -rf com.apple.dt.Xcode.plist
+  603  cd ..
+  604  cd Caches
+  605  ls
+  606  rm -rf com.apple.dt.Xcode
+  607  cd ..
+  608  cd Application\ Support
+  609  ls
+  610  cd ..
+  611  cd Developer
+  612  ls
+  613  cd CoreSimulator
+  614  ls
+  615  cd ..
+  616  rm -rf CoreSimulator
+  617  xcrun simctl delete unavailable
+  618  cd
+  619  ls -a
+  620  cd .swiftpm
+  621  ls
+  622  cd cache
+  623  ls
+  624  rm -rf *
+  625  cd ..
+  626  ls
+  627  ls -a
+  628  cat .zcompdump-Suraj’s\ Laptop-5.9
+  629  cls
+  630  clear
+  631  cd ~/Library/Developer
+  632  ls
+  633  rm -rf Xcode
+  634  ls
+  635  reboot
+  636  ls
+  637  ls -a
+  638  ls -la
+  639  ls -a
+  640  cd .m2
+  641  ls
+  642  ls -a
+  643  cd repository
+  644  ls
+  645  cd ..
+  646  cd wrapper
+  647  ls
+  648  cd dists
+  649  ls
+  650  cd
+  651  ls
+  652  ls -a
+  653  ls
+  654  cls
+  655  clear
+  656  ls
+  657  clear
+  658  ls
+  659  clear
+  660  ls
+  661  clear
+  662  ls
+  663  npm cache clean
+  664  npm cache clean --force
+  665  clear
+  666  exit
+  667  brew install iterm2
+  668  brew install --cask iterm2
+  669  brew remove --cask iterm2
+  670  brew install --cask iterm2
+  671  exit
+  672  clear
+  673  ls -a
+  674  clear
+  675  ls
+  676  clear
+  677  exit
+  678  uptime
+  679  exit
+  680  ls
+  681  cls
+  682  clear
+  683  exit
+  684  sl
+  685  ls
+  686  exit
+  687  pacman install smartmontools
+  688  brew install smartmontools
+  689  clear
+  690  lsblk
+  691  diskutil list
+  692  diskutil info /dev/disk0
+  693  smartctl -a /dev/disk0
+  694  smartctl -a /dev/disk1
+  695  brew install nvme-cli
+  696  brew install drivedx
+  697  brew install --cask drivedx
+  698  smartctl -a /dev/disk1
+  699  smartctl -a /dev/disk0
+  700  smartctl -a /dev/disk1
+  701  brew uninstall --cask drivedx
+  702  clear
+  703  npm install
+  704  npm start
+  705  firebase
+  706  sudo npm i g firebase-tools
+  707  firebase -
+  708  firebase -v
+  709  firebase-tools -v
+  710  exit
+  711  firebase -V
+  712  firebase
+  713  npm install -g firebase-tools
+  714  npm get prefix
+  715  nano ~/.zshrc
+  716  curl -sL https://firebase.tools | bash
+  717  firebase -V
+  718  firebase 
+  719  softwareupdate --install-rosetta
+  720  firebase -V
+  721  exit
+  722  firebase -V
+  723  firebase
+  724  clear
+  725  firebase
+  726  clear
+  727  curl -sL firebase.tools | uninstall=true bash
+  728  firebase-tools -V
+  729  firebase -V
+  730  firebase
+  731  sudo npm install -g firebase-tools
+  732  firebase -V
+  733  exit
+  734  firebase -V
+  735  firebase login
+  736  npm run build
+  737  ls -a
+  738  exit
+  739  list
+  740  snap
+  741  npx create-next-app@latest
+  742  sudo chown -R 501:20 "/Users/suraj/.npm"
+  743  rm -rf next-app-withmsw
+  744  npx create-next-app@latest
+  745  rm -rf next-app-with-msw
+  746  npx create-next-app@latest
+  747  cd next-app-with-msw
+  748  clear
+  749  ls
+  750  git init .
+  751  git add .
+  752  git remote add origin https://github.com/suraj-singh12/next-app-with-msw.git
+  753  git branh
+  754  git branch
+  755  git checkout feature/next-with-msw
+  756  git checkout -b feature/next-with-msw
+  757  git push origin feature/next-with-msw
+  758  git checkout main
+  759  ls
+  760  git status
+  761  git log
+  762  ls
+  763  git push origin main
+  764  npm start
+  765  npm run dev
+  766  npm install msw@latest --save-dev
+  767  npm install npm@latest --global
+  768  npm install msw@latest --save-dev
+  769  brew remove nodejs
+  770  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+  771  nvm install 20
+  772  node -v
+  773  npm -v
+  774  npm run dev
+  775  npm install
+  776  cd next-app-with-msw
+  777  npm run dev
+  778  npm install msw@latest --global
+  779  clear
+  780  clear
+  781  npm run dev
+  782  npm install msw@latest --save-dev
+  783  npm remove msw --global
+  784  npm run dev
+  785  clear
+  786  npm run dev
+  787  clear
+  788  cd ..
+  789  ls
+  790  npx create-vite@latest
+  791  cd vite-project-with-msw
+  792  npm install
+  793  git init .
+  794  git add .
+  795  git commit -m "initial commit"
+  796  git remote add origin https://github.com/suraj-singh12/vite-with-msw.git
+  797  git push origin main
+  798  npm install msw@latest --save-dev
+  799  npm run dev
+  800  cls
+  801  clear
+  802  npm run dev
+  803  python
+  804  python3
+  805  brew install rectangle
+  806  cd Documents
+  807  ls
+  808  cd code-repos
+  809  ls
+  810  git clone https://github.com/suraj-singh12/Suraj-Singh_Front-End.git
+  811  cd Suraj-Singh_Front-End
+  812  npm i
+  813  npm start
+  814  npm run dev
+  815  cd ..
+  816  rm -rf Suraj-Singh_Front-End
+  817  exit
+  818  ls
+  819  rm -rf package*
+  820  rm -rf node_modules
+  821  ls
+  822  rm -rf node_modules
+  823  npm --version
+  824  node --version
+  825  ls
+  826  ls -a
+  827  la -la
+  828  sudo su
+  829  ls
+  830  exit
+  831  brew clean
+  832  brew cleanup
+  833  exit
+  834  wget -c https://cdimage.ubuntu.com/releases/24.04/release/ubuntu-24.04-live-server-arm64.iso\?_ga\=2.13229438.831457056.1722762696-968370947.1722762696\&_gl\=1\*wcj9zh\*_gcl_au\*NzgxNzI1Nzk0LjE3MjI3NjI2OTg. 
+  835  ls
+  836  mv ubuntu-24.04-live-server-arm64.iso\?_ga=2.13229438.831457056.1722762696-968370947.1722762696\&_gl=1\*wcj9zh\*_gcl_au\*NzgxNzI1Nzk0LjE3MjI3NjI2OTg. ubuntu-24.04-live-server-arm64.iso
+  837  ls
+  838  mv ubuntu-24.04-live-server-arm64.iso Downloads
+  839  cd Downloads
+  840  mkdir ISOs
+  841  mv ubuntu-24.04-live-server-arm64.iso ISOs
+  842  cd ..
+  843  ls
+  844  cd ..
+  845  ls
+  846  cd Library
+  847  ls
+  848  du -hs Caches
+  849  cd Caches
+  850  ls
+  851  cd Desktop\ Pictures
+  852  ls
+  853  cd F6DC91C1-CE11-4D48-A791-A77B5CFBD351
+  854  ls
+  855  cd ..
+  856  ls
+  857  cd ..
+  858  ls
+  859  cd com.apple.iconservices.store
+  860  ls
+  861  exit
+  862  ls
+  863  exit
+  864  brew install --cask gedit
+  865  brew install  gedit
+  866  brew clean
+  867  brew cleanup
+  868  clean
+  869  exit
+  870  cd Downloads
+  871  ls
+  872  cd ISOs
+  873  ls
+  874  wget -c https://kali.download/base-images/kali-2024.2/kali-linux-2024.2-installer-arm64.iso
+  875  brew install docker
+  876  brew install --cask docker
+  877  brew remove docker
+  878  brew install --cask docker
+  879  docker ps
+  880  docker ps -a
+  881  docker run -it ubuntu
+  882  docker -ps
+  883  docker ps
+  884  docker ps -a
+  885  docker run -it ubuntu
+  886  ls
+  887  docker ps
+  888  docker ps -a
+  889  docker rm 1ad9b6e00dc4
+  890  docker ps -a
+  891  git clone github.com/suraj-singh12/BashScripts
+  892  git clone https://github.com/suraj-singh12/BashScripts
+  893  cd BashScripts
+  894  ls
+  895  cd sysLoad
+  896  ls
+  897  chmod +x dependency.sh
+  898  chmod +x dependency.sh install.sh script2.sh script.sh
+  899  ls
+  900  clear
+  901  ls
+  902  ./script.sh
+  903  cat script.sh
+  904  ls
+  905  nano sysLoadMac.sh
+  906  bash sysLoadMac.sh
+  907  sh sysLoadMac.sh
+  908  rm sysLoadMac.sh
+  909  nano sysLoadMac.sh
+  910  chmod +x sysLoadMac.sh
+  911  ./sysLoadMac.sh
+  912  touch sysLoad.sh
+  913  nano sysLoad.sh
+  914  chmod +x sysLoad.sh
+  915  ./sysLoad.sh
+  916  ./sysLoadMac.sh
+  917  cleear
+  918  clear
+  919  ls
+  920  ./sysLoadMac.sh
+  921  cd ..
+  922  rm -rf BashScripts
+  923  exit
+  924  git clone https://github.com/suraj-singh12/suraj-singh12.git
+  925  cd suraj-singh12
+  926  ls
+  927  ls -a
+  928  cat .wget-hsts
+  929  cd .oh-my-zsh
+  930  ls
+  931  ls -a
+  932  tree
+  933  ls -a
+  934  ls
+  935  cd ..
+  936  ls
+  937  cd Documents
+  938  ls
+  939  cd code-repos
+  940  git clone https://github.com/suraj-singh12/brijwasi-sweets-laravel.git
+  941  brew install composer
+  942  git clone https://github.com/suraj-singh12/brijwasi-sweets-laravel.git
+  943  ls
+  944  cd brijwasi-sweets-laravel
+  945  ls
+  946  code .
+  947  brew install php
+  948  php -V
+  949  php -v
+  950  composer -v
+  951  composer -V
+  952  exit
+  953  php artisan migrate
+  954  cd ..
+  955  ls
+  956  composer create-project laravel/laravel example-app
+  957  mv example-app example-app-laravel
+  958  cd example-app-laravel
+  959  ls
+  960  php artisan migrate
+  961  php artisan serve
+  962  cd ..
+  963  cd brijwasi-sweets-laravel
+  964  ls
+  965  cd re
+  966  cd react
+  967  npm i
+  968  npm start
+  969  npm run dev
+  970  cd brijwasi-sweets-laravel
+  971  ls
+  972  php artisan serve
+  973  composer install
+  974  php artisan migrate
+  975  php artisan db:seed
+  976  php artisan serve
+  977  cd react
+  978  npm start
+  979  php artisan serve
+  980  npm run dev
+  981  tree
+  982  g++ --version
+  983  docker list
+  984  docker ps
+  985  docker ps list
+  986  docker ls
+  987  docker --help
+  988  docker ps -a
+  989  docker run -it 7bde7ed6e02a
+  990  docker run 7bde7ed6e02a
+  991  cls
+  992  clear
+  993  docker ps -a
+  994  docker start 7bde7ed6e02a
+  995  docker stop 7bde7ed6e02a
+  996  docker run -it 7bde7ed6e02a
+  997  cls
+  998  clear
+  999  docker ps -a
+ 1000  history | grep docker
+ 1001  docker start 7bde7ed6e02a
+ 1002  docker exec -it 7bde7ed6e02a /bin/bash
+ 1003  clear
+ 1004  ls
+ 1005  cd Documents
+ 1006  ls
+ 1007  cls
+ 1008  clear
+ 1009  ls
+ 1010  mkdir code-repos
+ 1011  ls
+ 1012  cd code-repos
+ 1013  ls
+ 1014  clear
+ 1015  mkdir combined-google-drives-access
+ 1016  cd combined-google-drives-access
+ 1017  ls
+ 1018  docker ps
+ 1019  history | grep docker exec
+ 1020  history | grep docker 
+ 1021  docker exec -it 7bde7ed6e02a /bin/bash
+ 1022  cd g-files-scripts
+ 1023  git init .
+ 1024  git add .
+ 1025  git commit -m "added files to git"
+ 1026  clear
+ 1027  git log
+ 1028  git status
+ 1029  clear
+ 1030  git add .
+ 1031  git commit -m "all working fine"
+ 1032  git add .
+ 1033  git commit -m "updated size info things"
+ 1034  git add .j
+ 1035  git add .
+ 1036  git commit -m "delete-file script to be updated"
+ 1037  brew install --cask vlc
+ 1038  brew install --cask menumeters
+ 1039  history | grep docker
+ 1040  docker exec -it 7bde7ed6e02a /bin/bash
+ 1041  docker ps -a
+ 1042  docker exec -it 7bde7ed6e02a /bin/bash
+ 1043  history | grep docker
+ 1044  docker start 7bde7ed6e02a
+ 1045  docker exec -it 7bde7ed6e02a /bin/bash
+ 1046  docker stop 7bde7ed6e02a
+ 1047  brew uninstall --cask menumeters
+ 1048  exit
+ 1049  reboot
+ 1050  sudo reboot
+ 1051  ls
+ 1052  top
+ 1053  bashtop
+ 1054  brew install bashtop
+ 1055  clear
+ 1056  brew install asitop
+ 1057  asitop
+ 1058  clear
+ 1059  brew uninstall asitop
+ 1060  clear
+ 1061  brew install htop
+ 1062  brew cleanup
+ 1063  clear
+ 1064  htop
+ 1065  htop | grep mem
+ 1066  clear
+ 1067  exit
+ 1068  docker ps
+ 1069  docker ps -a
+ 1070  docker start 7bde7ed6e02a
+ 1071  history | grep docker exec
+ 1072  history | grep docker 
+ 1073  docker exec -it 7bde7ed6e02a /bin/bash
+ 1074  docker stop 7bde7ed6e02a
+ 1075  exit
+ 1076  clear
+ 1077  cd leetcode
+ 1078  lc
+ 1079  clear
+ 1080  git init .
+ 1081  clear
+ 1082  cd ..
+ 1083  ls
+ 1084  cd ..
+ 1085  ls
+ 1086  mv Leetcode cp
+ 1087  ls
+ 1088  mv cp cp-leetcode-striver
+ 1089  ls
+ 1090  git add . 
+ 1091  git commit -m "added some easy questions"
+ 1092  git remote add origin https://github.com/suraj-singh12/leetcode.git
+ 1093  git push origin main
+ 1094  git add .
+ 1095  git commit -m "Added README.md"
+ 1096  git push origin main
+ 1097  cd ..
+ 1098  mv leetcode leetcode-solutions
+ 1099  init 0
+ 1100  man init
+ 1101  man reboot
+ 1102  clear
+ 1103  man which
+ 1104  which gcc
+ 1105  which g++
+ 1106  which python
+ 1107  which python3
+ 1108  which npp
+ 1109  brew install npp
+ 1110  brew install --cask npp
+ 1111  brew install coteditor
+ 1112  brew install gedit
+ 1113  brew remove gedit
+ 1114  brewclean
+ 1115  brew clean
+ 1116  brew cleanup
+ 1117  exit
+ 1118  git status
+ 1119  clear
+ 1120  git status
+ 1121  python -version
+ 1122  python3 --versin
+ 1123  python3 --version
+ 1124  clear
+ 1125  python3 -m venv myenv
+ 1126  /usr/bin/python3 /Users/suraj/.vscode/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/suraj/.vscode/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1127  source myenv/bin/activate
+ 1128  clear
+ 1129  ls
+ 1130  clear
+ 1131  source myenv/bin/deactivate
+ 1132  deactivate
+ 1133  python3 -m venv myDevEnv
+ 1134  rm -rf myenv
+ 1135  clear
+ 1136  python3 -m venv my-dev-venv
+ 1137  rm -rf myDevEnv
+ 1138  clear
+ 1139  source my-dev-venv/bin/activate
+ 1140  clear
+ 1141  rm -rf .git
+ 1142  ls
+ 1143  git status
+ 1144  clear
+ 1145  git init .
+ 1146  clear
+ 1147  pip install cryptography
+ 1148  clear
+ 1149  cd utils
+ 1150  ls
+ 1151  python encrypt.py "../data-files/service-acc-creds.json" credentials
+ 1152  python encrypt.py ../data-files/service-acc-creds.json credentials
+ 1153  python encrypt.py ../data-files/service-acc-creds.json creds
+ 1154  clear
+ 1155  python encrypt.py ../data-files/service-acc-creds.json creds
+ 1156  cclear
+ 1157  clear
+ 1158  python encrypt.py ../data-files/service_acc_creds.json creds
+ 1159  clear
+ 1160  python encrypt.py ../data-files/service_acc_creds.json creds
+ 1161  cd ..
+ 1162  pip install python-dotenv
+ 1163  clear
+ 1164  ./read_creds.py
+ 1165  python3 read_creds.py
+ 1166  clear
+ 1167  python3 read_creds.py
+ 1168  clear
+ 1169  ls
+ 1170  clear
+ 1171  docker ps -a
+ 1172  docker exec 7bde7ed6e02a
+ 1173  history | grep docker
+ 1174  docker exec -it 7bde7ed6e02a /bin/bash
+ 1175  docker start 7bde7ed6e02a
+ 1176  docker exec -it 7bde7ed6e02a /bin/bash
+ 1177  exit
+ 1178  docker stop 7bde7ed6e02a
+ 1179  exit
+ 1180  pip install google-api-python-client
+ 1181  pip remove google-api-python-client
+ 1182  pip uninstall google-api-python-client
+ 1183  pip install google-api-python-client
+ 1184  clear
+ 1185  python3 g-list-shared-folders.py
+ 1186  python3 g-list-all-folders.py
+ 1187  clear
+ 1188  cd ..
+ 1189  ls
+ 1190  cd g-files-scripts
+ 1191  ls
+ 1192  cd utils
+ 1193  python encrypt.py
+ 1194  python encrypt.py ../creds/service_account_creds.json
+ 1195  clear
+ 1196  python encrypt.py ../creds/service_account_creds.json
+ 1197  cd ..
+ 1198  python3 g-list-all-folders.py
+ 1199  python3 g-get-size-info.py
+ 1200  python3 g-list-files.py
+ 1201  python g-download-file.py 1wHv14av342Ztf7nERDx-1rBCZB9jNpq6
+ 1202  clear
+ 1203  python g-download-file.py 1wHv14av342Ztf7nERDx-1rBCZB9jNpq6
+ 1204  python g-intelligent-upload.py IMG-20240815-WA0009.jpg
+ 1205  python g-get-size-info.py
+ 1206  python g-list-shared-folders.py
+ 1207  python g-list-all-folders.py
+ 1208  python g-intelligent-upload.py IMG-20240815-WA0009.jpg
+ 1209  python g-list-files.py
+ 1210  clear
+ 1211  python g-list-files.py
+ 1212  python g-delete-file.py 16Rjf6jKf7q7t_Adcck1s3Kj6bF_FXjTs
+ 1213  python g-delete-file.py 1xN16EtuN1kLDfQ99d4d4jNE0oE-zDptB
+ 1214  python g-list-files.py
+ 1215  clear
+ 1216  python3 g-get-size-info.py
+ 1217  python3 g-intelligent-upload.py IMG-20240815-WA0009.jpg
+ 1218  python3 g-list-files.py
+ 1219  python3  g-delete-file.py 1wHv14av342Ztf7nERDx-1rBCZB9jNpq6
+ 1220  python3 g-delete-file.py 1_3KC0KYzT9DZkr9PddMXJ0O6gjY7D9zk
+ 1221  clear
+ 1222  python3 g-list-files.py
+ 1223  clear
+ 1224  python3 g-upload-to-folder.py IMG-20240815-WA0009.jpg
+ 1225  python g-list-files.py
+ 1226  clear
+ 1227  python3 g-list-shared-folders.py
+ 1228  clear
+ 1229  python3 g-upload-to-folder.py IMG-20240815-WA0009.jpg
+ 1230  clear
+ 1231  python3 g-upload-to-folder.py IMG-20240815-WA0009.jpg
+ 1232  clear
+ 1233  rm IMG-20240815-WA0009.jpg
+ 1234  clear
+ 1235  git add *.py
+ 1236  python g-list-files.py
+ 1237  python g-get-file-absolute-path.py 1LeWeVmQopOcKEXNYNgR2IpYuMLNOJ3GY
+ 1238  git add *.py
+ 1239  git status
+ 1240  git add .gitignore
+ 1241  git add utils/
+ 1242  git commit -m "initial files ready, working"
+ 1243  clear
+ 1244  /usr/bin/python3 /Users/suraj/.vscode/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/suraj/.vscode/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1245  python3 g-list-files.py
+ 1246  python g-download-file.py 1LeWeVmQopOcKEXNYNgR2IpYuMLNOJ3GY
+ 1247  clear
+ 1248  python g-download-file.py 1LeWeVmQopOcKEXNYNgR2IpYuMLNOJ3GY
+ 1249  deactivate
+ 1250  source my-dev-venv/bin/activate
+ 1251  python g-download-file.py 1LeWeVmQopOcKEXNYNgR2IpYuMLNOJ3GY
+ 1252  exit
+ 1253  python g-download-file.py 1LeWeVmQopOcKEXNYNgR2IpYuMLNOJ3GY
+ 1254  clear
+ 1255  python g-download-file.py 1LeWeVmQopOcKEXNYNgR2IpYuMLNOJ3GY
+ 1256  clear
+ 1257  python g-download-file.py 1LeWeVmQopOcKEXNYNgR2IpYuMLNOJ3GY
+ 1258  clear
+ 1259  python g-download-file.py 1LeWeVmQopOcKEXNYNgR2IpYuMLNOJ3GY
+ 1260  clear
+ 1261  cd utils
+ 1262  ls
+ 1263  python3 encrypt.py ../creds/service_account_creds.json
+ 1264  cd ..
+ 1265  python3 read_encrypted_creds.py
+ 1266  clear
+ 1267  python3 encrypt.py ../creds/service_account_creds.json
+ 1268  cd utils
+ 1269  clear
+ 1270  python3 encrypt.py ../creds/service_account_creds.json
+ 1271  cd ..
+ 1272  python3 read_encrypted_creds.py
+ 1273  clear
+ 1274  git add utils/
+ 1275  git commit -m "updated utils, fixed bug"
+ 1276  clear
+ 1277  python g-list-
+ 1278  python g-list-files.py
+ 1279  clear
+ 1280  python g-download-file.py 1LeWeVmQopOcKEXNYNgR2IpYuMLNOJ3GY
+ 1281  clear
+ 1282  python g-download-file.py 1LeWeVmQopOcKEXNYNgR2IpYuMLNOJ3GY
+ 1283  clear
+ 1284  ls
+ 1285  python g-list-files.py
+ 1286  python g-delete-file.py 1oY8UGRAV6POV8LnuDuchhMYqs3KwAorb
+ 1287  python g-list-shared-folders.py
+ 1288  python g-my-drive-space.py
+ 1289  python g-list-shared-folders.py
+ 1290  clear
+ 1291  python g-upload-to-folder.py files-to-send/1-inception.zip
+ 1292  python g-my-drive-space.py
+ 1293  clear
+ 1294  python g-upload-to-folder.py files-to-send/1-assignment.zip
+ 1295  python g-upload-to-folder.py files-to-send/2-doubt-session.zip
+ 1296  python g-upload-to-folder.py files-to-send/3-assignment-app-start.zip
+ 1297  python g-upload-to-folder.py files-to-send/4-assignment.zip
+ 1298  python g-upload-to-folder.py files-to-send/3-igniting-app-video.zip
+ 1299  python g-get-shared-folder-owner.py
+ 1300  clear
+ 1301  python g-list-shared-folders.py
+ 1302  clear
+ 1303  python g-get-shared-folder-owner.py
+ 1304  python g-transfer-ownership-one-file.py
+ 1305  python g-list-shared-folders.py
+ 1306  python g-list-files.py
+ 1307  python g-get-shared-folder-owner.py
+ 1308  clar
+ 1309  clear
+ 1310  python g-get-shared-folder-owner.py
+ 1311  python g-transfer-ownership-one-file.py
+ 1312  python g-my-drive-space.py
+ 1313  /usr/bin/python3 /Users/suraj/.vscode/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/suraj/.vscode/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1314  python g-my-drive-space.py
+ 1315  python g-list-files.py
+ 1316  python g-delete-file.py 11_YJ7mErjfXdni-0V0DKpLQOxhM9PMwB
+ 1317  python g-delete-file.py 1hrxHiNdueNw4uJZ3SFoS5Tbzot6QxMyo
+ 1318  python g-delete-file.py 1dNPnbQAF4HG5yQm5lGrdlyYco8qxvZS1
+ 1319  python g-delete-file.py 1xqCQfWuP55l2YkfOZNO4MTEtw7xFbmIg
+ 1320  python g-delete-file.py 1sKJWLYDE4qK_2azEFMTrIIscIvgJ0023
+ 1321  clear
+ 1322  python g-list-files.py
+ 1323  python g-delete-file.py 14CNk1lB-vya50IEpKPsa4IA9wZh3kY6d
+ 1324  clear 
+ 1325  python g-list-files.py
+ 1326  cd Documents
+ 1327  ls
+ 1328  cd learning-videos
+ 1329  cd Akshay\ Saini\ -\ \ Namaste\ React
+ 1330  ls
+ 1331  ls | grep zip
+ 1332  clear
+ 1333  python g-upload-to-folder-v2.py files-to-send
+ 1334  python g-my-drive-space.py
+ 1335  clear
+ 1336  ls | grep zip
+ 1337  mv *zip ../../code-repos/combined-google-drives-access/g-files-scripts/files-to-send
+ 1338  python g-upload-to-folder-v2.py files-to-send
+ 1339  python g-my-drive-space.py
+ 1340  python g-list-files.py
+ 1341  python g-delete-file.py 1mk5MZXpkUBHuievcDPjmFS6NqcGP9lVg
+ 1342  python g-upload-to-folder-v2.py files-to-send
+ 1343  clear
+ 1344  python g-my-drive-space.py
+ 1345  python g-list-files.py
+ 1346  python g-delete-file.py 11CPWeJnuhl4Au5PVmr1wQszNQi_t3nGW
+ 1347  python g-my-drive-space.py
+ 1348  /usr/bin/python3 /Users/suraj/.vscode/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/suraj/.vscode/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1349  ls
+ 1350  python g-my-drive-space.py
+ 1351  /usr/bin/python3 /Users/suraj/.vscode/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/suraj/.vscode/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1352  python g-list-files.py
+ 1353  python g-list-files.py | grep 14
+ 1354  clear
+ 1355  nano ~/.zshrc
+ 1356  p
+ 1357  source ~/.zshrc
+ 1358  clear
+ 1359  p g-list-files.py
+ 1360  p g-delete-file.py 1rfe3un990lABf3hQSqEyNYFX3Oos5WIL
+ 1361  source ~/.zshrc
+ 1362  clear
+ 1363  p g-delete-file.py 1rfe3un990lABf3hQSqEyNYFX3Oos5WIL
+ 1364  p g-delete-file.py 1sdjgAlxbeSGhOvSrJHjJ1D2TMH90Eo2M
+ 1365  p g-delete-file.py 1oNHjheU0kagQVipiTdZl0zXpmeaWZpsZ
+ 1366  p g-delete-file.py 1Fw7hiUBERRov2ewh2WQJuXP2a0ZA-B-6
+ 1367  p g-delete-file.py 1HK1r-JBmi9FSzT5ptVnzE-zzzP8PhbfD
+ 1368  p g-delete-file.py 1lcsMPlXoXTQfAVDdeY_z5Dv_wK5sYmXh
+ 1369  p g-delete-file.py 1T1znAU2HkBf1VJYEH3hNYAtBXxKk9HlO
+ 1370  p g-delete-file.py 1UdOC2ObeHQ0eh0bGxVsygoH36aRw2Q62
+ 1371  p g-delete-file.py 1u88cCxBlckLfHjgYZv2vU4XS71Lk40_m
+ 1372  p g-delete-file.py 1UZtutPX2P_Q56JUtZ8Qpu0w5Qhs0uDaR
+ 1373  p g-delete-file.py 1jrkKZcyyVK3XK7ZNgYrUcnDn607LtadS
+ 1374  p g-delete-file.py 1XRAouzyjNvymIyeBRaiLNTO4jBUQR_AB
+ 1375  p g-delete-file.py 1zQLrDStD9lgfi5Xi_xKxxLLGYoJYtsuv
+ 1376  p g-delete-file.py 1v_WOQ_8TNAD6X3siCNxxH0AbpEvhcu3f
+ 1377  p g-delete-file.py 1ZH8P6_kzsPswSayyyE-OzpMSy-yK5HsY
+ 1378  p g-delete-file.py 1joWnXDGC__UMPfBu2y-V7p0MF3lXQgKX
+ 1379  p g-delete-file.py 1kmzH_BEkvQ4rsjhgp0MMMfXvcQB1WH7C
+ 1380  p g-delete-file.py 1nxzSxsi3dFoLbe3aBAA2xJV6L5x6MB8c
+ 1381  p g-delete-file.py 1LeWeVmQopOcKEXNYNgR2IpYuMLNOJ3GY
+ 1382  p g-delete-file.py 1NU1oXr771hPf79BJm8-KT17NislzsGTW
+ 1383  p g-list-files.py
+ 1384  clear
+ 1385  p g-upload-to-folder-v2.py files-to-send
+ 1386  clear
+ 1387  ls
+ 1388  clear
+ 1389  p g-upload-to-folder-v2.py files-to-send
+ 1390  cd Documents
+ 1391  ls
+ 1392  cd code-repos
+ 1393  ls
+ 1394  cd combined-google-drives-access
+ 1395  ls
+ 1396  cd g-files-scripts
+ 1397  clear
+ 1398  ls
+ 1399  cd files-to-send
+ 1400  ls
+ 1401  rm -rf 14-Build\ Store.zip
+ 1402  p g-upload-to-folder-v2.py files-to-send
+ 1403  ls
+ 1404  clear
+ 1405  ls
+ 1406  p g-upload-to-folder-v2.py files-to-send
+ 1407  p g-list-files.py
+ 1408  p g-delete-file.py 1DaOYdReCx0Oj8c3sQ-O-vN5naM8cnGbl
+ 1409    clear
+ 1410  cls
+ 1411  clear
+ 1412  p g-delete-file.py 1DaOYdReCx0Oj8c3sQ-O-vN5naM8cnGbl
+ 1413  p g-upload-to-folder-v2.py files-to-send
+ 1414  p g-delete-file.py 1DaOYdReCx0Oj8c3sQ-O-vN5naM8cnGbl
+ 1415  clear
+ 1416  p g-list-files.py
+ 1417  p g-delete-file.py 13X9NL1LTYn7g8yl-15MxjMcOh2g7crYU
+ 1418  clear
+ 1419  p g-upload-to-folder-v2.py files-to-send
+ 1420  clear
+ 1421  p g-upload-to-folder-v2.py files-to-send
+ 1422  p g-list-files.py
+ 1423  p g-my-drive-space.py
+ 1424  /usr/bin/python3 /Users/suraj/.vscode/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/suraj/.vscode/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1425  p g-my-drive-space.py
+ 1426  clear
+ 1427  /usr/bin/python3 /Users/suraj/.vscode/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/suraj/.vscode/extensions/ms-python.python-2024.12.3-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1428  node connect_mongodb.js
+ 1429  npm install mongodb
+ 1430  node connect_mongodb.js
+ 1431  clear
+ 1432  git clone https://github.com/suraj-singh12/flipkart-project.git
+ 1433  cd flipkart-project
+ 1434  ls
+ 1435  clear
+ 1436  ls
+ 1437  cd flipkart-app
+ 1438  ls
+ 1439  clear
+ 1440  git add .
+ 1441  clear && npm i 
+ 1442  npm start
+ 1443  git add .
+ 1444  git commit -m "udpated backend urls"
+ 1445  git push origin main
+ 1446  npm start
+ 1447  git add .
+ 1448  git commit --amend
+ 1449  npm run build
+ 1450  clear
+ 1451  exit
+ 1452  ping fkart-app.netlify.com
+ 1453  clear
+ 1454  ping fkart-app.netlify.app
+ 1455  clear
+ 1456  ping https://fkart-app.netlify.app
+ 1457  cd Documents
+ 1458  l
+ 1459  clear
+ 1460  ls
+ 1461  cd code-repos
+ 1462  ls
+ 1463  git clone https://github.com/Thant998/oop-project.git
+ 1464  cd oop-project
+ 1465  clear
+ 1466  ls
+ 1467  clear
+ 1468  ls
+ 1469  clear
+ 1470  history | grep docker exec
+ 1471  history | grep docker 
+ 1472  docker exec -it 7bde7ed6e02a /bin/bash
+ 1473  ddocker start 7bde7ed6e02a
+ 1474  docker start 7bde7ed6e02a
+ 1475  docker exec -it 7bde7ed6e02a /bin/bash
+ 1476  exit
+ 1477  cd Dou
+ 1478  cd Documents
+ 1479  ls
+ 1480  cd code-repos
+ 1481  ls
+ 1482  cd oop-project
+ 1483  ls
+ 1484  shopt -s extglob
+ 1485  setopt extended_globbing
+ 1486  setopt extended_glob
+ 1487  clear
+ 1488  ls
+ 1489  rm -rf !(BusTicketManagementSystem)
+ 1490  ls
+ 1491  rm -rf !(BusTicketManagementSystem)
+ 1492  clear
+ 1493  ls
+ 1494  clear
+ 1495  ls
+ 1496  rm -rf ^BusTicketManagementSystem
+ 1497  ls
+ 1498  clear
+ 1499  ls
+ 1500  cd BusTicketManagementSystem
+ 1501  ls
+ 1502  idea .
+ 1503  idea 
+ 1504  echo $PATH
+ 1505  echo $PATH | grep idea
+ 1506  echo $PATH | grep bin
+ 1507  which idea
+ 1508  where intellij
+ 1509  which intellij
+ 1510  brew list --cask intellij-idea
+ 1511  brew install --cask intellij-idea-ultimate
+ 1512  brew install --cask intellij-idea
+ 1513  idea .
+ 1514  maven
+ 1515  mvn
+ 1516  exit
+ 1517  touch .gitignore
+ 1518  rm -rf .git
+ 1519  clear
+ 1520  ls
+ 1521  git init .
+ 1522  cat "out" > .gitignore
+ 1523  cat .gitignore
+ 1524  echo "out" > .gitignore
+ 1525  cat .gitignore
+ 1526  clear
+ 1527  echo ".idea" >> .gitignore
+ 1528  cat .gitignore
+ 1529  git add .
+ 1530  git commit -m "initial commit with project code"
+ 1531  clear
+ 1532  git stash
+ 1533  git log
+ 1534  rm -rf .git
+ 1535  git init .
+ 1536  git add .
+ 1537  git commit -m "added initial code"
+ 1538  clear
+ 1539  git remote add origin https://github.com/suraj-singh12/java-oops.git
+ 1540  git push origin main
+ 1541  touch README.md
+ 1542  git add README.md
+ 1543  git commit -m "added README.md"
+ 1544  git push origin main
+ 1545  clear
+ 1546  ls
+ 1547  exit
+ 1548  clear
+ 1549  history | grep docker
+ 1550  docker start 7bde7ed6e02a
+ 1551  docker exec -it 7bde7ed6e02a /bin/bash
+ 1552  exit
+ 1553  g++ main.cpp
+ 1554  nano ~/.zshrc
+ 1555  cat ~/.zshrc | grep g++
+ 1556  g++ main.cpp
+ 1557  g++ main.cpp --std=g++20
+ 1558  clear
+ 1559  g++ main.cpp --std=c++20
+ 1560  ./a.out
+ 1561  nano ~/.zshrc
+ 1562  source ~/.zshrc
+ 1563  g20 main.cpp
+ 1564  nano ~/.zshrc
+ 1565  source ~/.zshrc
+ 1566  exit
+ 1567  gc20 main.cpp
+ 1568  ./a.out
+ 1569  rm a.out
+ 1570  rm main.cpp
+ 1571  exit
+ 1572  history | grep docker
+ 1573  docker start 7bde7ed6e02a
+ 1574  docker exec -it 7bde7ed6e02a /bin/bash
+ 1575  clear
+ 1576  ls
+ 1577  dir
+ 1578  ls
+ 1579  clear
+ 1580  zsh
+ 1581  exit
+ 1582  clear
+ 1583  ls
+ 1584  siri
+ 1585  clear
+ 1586  git clone https://github.com/suraj-singh12/BashScripts
+ 1587  cd BashScripts
+ 1588  clear
+ 1589  ls
+ 1590  cd sysLoad
+ 1591  clear
+ 1592  ls
+ 1593  cat dependency.sh
+ 1594  sysstat
+ 1595  clear
+ 1596  ls
+ 1597  cat script.sh
+ 1598  ps -eo s
+ 1599  ps
+ 1600  clear
+ 1601  man ps
+ 1602  clear
+ 1603  ps -eo s | grep S | wc -l
+ 1604  ps -e | wc -l
+ 1605  man ps
+ 1606  clear
+ 1607  grep -A 1 avg-cpu
+ 1608  iostat -c | grep -A 1 avg-cpu
+ 1609  iostat
+ 1610  exit
+ 1611  quit
+ 1612  exit
+ 1613  clear
+ 1614  exit
+ 1615  cd Documents
+ 1616  clear
+ 1617  s
+ 1618  ls
+ 1619  cd code-repos
+ 1620  clear
+ 1621  ls
+ 1622  git clone https://github.com/suraj-singh12/my-portfolio.git
+ 1623  cd my-portfolio
+ 1624  clear
+ 1625  ls
+ 1626  npm i && code .
+ 1627  npm start
+ 1628  git add .
+ 1629  git log
+ 1630  git commit -m "update 2"
+ 1631  git push origin main
+ 1632  firebase login
+ 1633  firebase deploy
+ 1634  npm run build
+ 1635  firebase deploy
+ 1636  git add .
+ 1637  git commit -m "updated resume link (Sep 2024 version)"
+ 1638  git push origin main
+ 1639  rm -rf build
+ 1640  npm run build
+ 1641  firebase deploy
+ 1642  zoom
+ 1643  brew list
+ 1644  exit
+ 1645  g++ main.cpp
+ 1646  ./a.out
+ 1647  clear
+ 1648  ./a.out
+ 1649  clear
+ 1650  exit
+ 1651  cd Pictures
+ 1652  cd GoPro
+ 1653  rm -rf *.LRV
+ 1654  exit
+ 1655  rm -rf *.THM
+ 1656  cd Pictures
+ 1657  cd GoPro
+ 1658  clear
+ 1659  ls
+ 1660  ls | grep *.THM
+ 1661  ls | grep *THM
+ 1662  ls
+ 1663  clear
+ 1664  mkdir videos
+ 1665  mkdir photos
+ 1666  mv *.jpg photos
+ 1667  mv *JPG photos
+ 1668  mv *MP4 videos
+ 1669  java --verison
+ 1670  java --version
+ 1671  brew install jdk17
+ 1672  brew install opnejdk17
+ 1673  brew install openjdk17
+ 1674  java --version
+ 1675  brew install @openjdk17
+ 1676  brew install openjdk@17
+ 1677  reboot
+ 1678  sudo reboot
+ 1679  cd Pictures
+ 1680  cd for\ Adobe\ premier\ pro
+ 1681  clear
+ 1682  ls
+ 1683  mkdir iphoneVidoes
+ 1684  mv iphoneVidoes iphoneVideos
+ 1685  mv *.mp4 iphoneVideos
+ 1686  mv *mp4 iphoneVideos
+ 1687  mv *MP4 iphoneVideos
+ 1688  mv *MOV iphoneVideos
+ 1689  clear
+ 1690  g++ main.cpp 
+ 1691  cls
+ 1692  clear
+ 1693  g++ main.cpp 
+ 1694  ./a.out
+ 1695  clear
+ 1696  g++ --c++17 main.cpp
+ 1697  g++  main.cpp
+ 1698  ./a.out
+ 1699  g++  main.cpp
+ 1700  ./a.out
+ 1701  g++  main.cpp
+ 1702  ./a.out
+ 1703  g++  main.cpp
+ 1704  ./a.out
+ 1705  g++  main.cpp
+ 1706  ./a.out
+ 1707  cls
+ 1708  clear
+ 1709  g++  main.cpp
+ 1710  ./a.out
+ 1711  javac main2.java
+ 1712  java Result
+ 1713  javac main2.java
+ 1714  java Result
+ 1715  brew install paintbrush
+ 1716  brew install --cask paintbrush
+ 1717  exit
+ 1718  brew remove paintbrush
+ 1719  exit
+ 1720  cd Do
+ 1721  cd Downloads
+ 1722  cd Hogenakkal\ water\ falls
+ 1723  clear
+ 1724  ls
+ 1725  rm -rf *.xmp
+ 1726  exit
+ 1727  brew uninstall vlc
+ 1728  exit
+ 1729  brew install --cask vlc
+ 1730  exit
+ 1731  init 0
+ 1732  shutdown
+ 1733  exit
+ 1734  quit
+ 1735  exit && exit
+ 1736  ipconfig
+ 1737  ipconfig getifaddress
+ 1738  ipconfig getifaddr
+ 1739  exit
+ 1740  brew install utorrent
+ 1741  brew install qbittorrent
+ 1742  brew install --cask qbittorrent
+ 1743  exit
+ 1744  brew install qbittorrent
+ 1745  brew remo e qbittorrent
+ 1746  brew remove qbittorrent
+ 1747  brew install --cask qbittorrent
+ 1748  exit
+ 1749  brew remove qbittorrent
+ 1750  exit
+ 1751  cd Downloads
+ 1752  cd Band\ of\ brothers
+ 1753  wget -c "https://ia800206.us.archive.org/26/items/brockie/Band%20of%20Brothers%20%281080p%20x265%20Joy%29/3.mp4"
+ 1754  wget -c "https://dn720006.ca.archive.org/0/items/brockie/Band%20of%20Brothers%20%281080p%20x265%20Joy%29/2.mp4"
+ 1755  rm -rf 2.mp4
+ 1756  cd Downloads
+ 1757  cd Band\ of\ brothers
+ 1758  wget -c "https://dn720006.ca.archive.org/0/items/brockie/Band%20of%20Brothers%20%281080p%20x265%20Joy%29/2.mp4"
+ 1759  cd Downloads
+ 1760  cd Band\ of\ brothers
+ 1761  wget -c "https://dn720006.ca.archive.org/0/items/brockie/Band%20of%20Brothers%20%281080p%20x265%20Joy%29/4.mp4"
+ 1762  wget -c "https://dn720006.ca.archive.org/0/items/brockie/Band%20of%20Brothers%20%281080p%20x265%20Joy%29/5.mp4"
+ 1763  cd Downloads
+ 1764  cd Band\ of\ brothers
+ 1765  wget -c "https://dn720006.ca.archive.org/0/items/brockie/Band%20of%20Brothers%20%281080p%20x265%20Joy%29/6.mp4"
+ 1766  wget -c "https://dn720006.ca.archive.org/0/items/brockie/Band%20of%20Brothers%20%281080p%20x265%20Joy%29/7.mp4"
+ 1767  wget -c "https://dn720006.ca.archive.org/0/items/brockie/Band%20of%20Brothers%20%281080p%20x265%20Joy%29/8.mp4"
+ 1768  cd Downloads
+ 1769  cd Band\ of\ brothers
+ 1770  wget -c "https://dn720006.ca.archive.org/0/items/brockie/Band%20of%20Brothers%20%281080p%20x265%20Joy%29/9.mp4"
+ 1771  wget -c "https://dn720006.ca.archive.org/0/items/brockie/Band%20of%20Brothers%20%281080p%20x265%20Joy%29/10.mp4"
+ 1772  wget -c "https://dn720006.ca.archive.org/0/items/brockie/Band%20of%20Brothers%20%281080p%20x265%20Joy%29/7.mp4"
+ 1773  wget -c "https://dn720006.ca.archive.org/0/items/brockie/Band%20of%20Brothers%20%281080p%20x265%20Joy%29/10.mp4"
+ 1774  wget -c "https://dn720006.ca.archive.org/0/items/brockie/Band%20of%20Brothers%20%281080p%20x265%20Joy%29/9.mp4"
+ 1775  exit
+ 1776  cd Downloads
+ 1777  wget -c https://swr.cloud.blackmagicdesign.com/DaVinciResolve/v20.3.2/DaVinci_Resolve_20.3.2_Mac.zip\?verify\=1772996117-Zab5mJkXay6QwS7u6Gjb2g%2BYZ%2B5PCDCaTR30HNBWKBE%3D
+ 1778  ls 
+ 1779  wget -c "https://ia800206.us.archive.org/26/items/brockie/Band%20of%20Brothers%20%281080p%20x265%20Joy%29/3.mp4"
+ 1780  rm -rf 3.mp4
+ 1781  wget -c https://swr.cloud.blackmagicdesign.com/DaVinciResolve/v20.3.2/DaVinci_Resolve_20.3.2_Mac.zip\?verify\=1772996117-Zab5mJkXay6QwS7u6Gjb2g%2BYZ%2B5PCDCaTR30HNBWKBE%3D
+ 1782  rm -rf DaVinci_Resolve_20.3.2_Mac.zip\?verify=1772996117-Zab5mJkXay6QwS7u6Gjb2g+YZ+5PCDCaTR30HNBWKBE=
+ 1783  cd /var/tmp
+ 1784  ls
+ 1785  cd Downloads
+ 1786  mkdir Davinci
+ 1787  cd d
+ 1788  cd Davinci
+ 1789  wget -c https://swr.cloud.blackmagicdesign.com/DaVinciResolve/v20.3.2/DaVinci_Resolve_20.3.2_Mac.zip\?verify\=1773069967-Bj0oFu1zebiQpqri7PXXT7WA73kJ7eJnODpQzRsNRhE%3D
+ 1790  time
+ 1791  ls 
+ 1792  autoclean
+ 1793  brew cleanup
+ 1794  brew cleanup -s
+ 1795  rm -rf ~/Library/Caches/*
+ 1796  rm -rf /tmp/*
+ 1797  rm -rf /var/folders/*
+ 1798  rm -rf /var/log/*.log
+ 1799  df -h
+ 1800  clear
+ 1801  exit
+ 1802  python3 --version
+ 1803  mkdir deepface-project
+ 1804  cd deepface-project
+ 1805  python3 -m venv venv
+ 1806  source venv/bin/activate
+ 1807  cls
+ 1808  clear
+ 1809  pip install --upgrade pip
+ 1810  pip install deepface
+ 1811  clear
+ 1812  /usr/bin/python3 /Users/suraj/.vscode/extensions/ms-python.python-2024.22.2-darwin-arm64/python_files/printEnvVariablesToFile.py /Users/suraj/.vscode/extensions/ms-python.python-2024.22.2-darwin-arm64/python_files/deactivate/zsh/envVars.txt
+ 1813  python3 ./test.py
+ 1814  clear
+ 1815  python ./test.py
+ 1816  python3 ./test.py
+ 1817  brew install python@3.11
+ 1818  python --version
+ 1819  python3 --version
+ 1820  brew remove python@3.13.1
+ 1821  brew uninstall python@3.13.1
+ 1822  brew uninstall python@3.13
+ 1823  brew uninstall python3
+ 1824  brew remove python3
+ 1825  brew remove python
+ 1826  clear
+ 1827  which -a python
+ 1828  which -a python3
+ 1829  python3 --version
+ 1830  brew uninstall python
+ 1831  brew uninstall python@3.13
+ 1832  brew uninstall python@3.13 --ignore-dependencies
+ 1833  brew uninstall python@3.11 --ignore-dependencies
+ 1834  brew uninstall python@3.12 --ignore-dependencies
+ 1835  python3 --version
+ 1836  which -a python
+ 1837  which -a python3
+ 1838  brew autoremove && brew cleanup
+ 1839  cd /Library/Frameworks/
+ 1840  ls | grep Python
+ 1841  ls
+ 1842  cd ..
+ 1843  clear
+ 1844  cd
+ 1845  sudo rm -f /usr/local/bin/python3*
+ 1846  sudo rm -f /usr/local/bin/pip*
+ 1847  cd /usr/local/bin
+ 1848  ls
+ 1849  cd
+ 1850  rm -rf ~/.local/lib/python*
+ 1851  rm -rf ~/.cache/pip
+ 1852  ls ~/Library/Python
+ 1853  ls ~/Library/Python3
+ 1854  cd Downloads
+ 1855  ls
+ 1856  cd ..
+ 1857  cd Documents
+ 1858  cd code-repos/codeforces
+ 1859  ls
+ 1860  rm -rf deepface-project
+ 1861  mkdir deepface-project
+ 1862  which python3
+ 1863  brew install python@3.11
+ 1864  echo 'export PATH="/opt/homebrew/opt/python@3.11/bin:$PATH"' >> ~/.zshrc\nsource ~/.zshrc
+ 1865  source ~/.zshrc
+ 1866  python3 --version
+ 1867  python3.11 --version
+ 1868  cd deepface-project
+ 1869  which python3
+ 1870  where python3
+ 1871  python3.11 -m venv venv
+ 1872  pip install --upgrade pip 
+ 1873  source venv/bin/activate
+ 1874  pip install --upgrade pip 
+ 1875  pip install deepface
+ 1876  code .
+ 1877  pip install deepface opencv-python
+ 1878  python test.py
+ 1879  pip install tf_keras
+ 1880  python test.py
+ 1881  python verify.py
+ 1882  pip install deepface opencv-python
+ 1883  python webcam_recognition.py
+ 1884  clear
+ 1885  python webcam_recognition.py
+ 1886  cd Documents
+ 1887  mkdir ai_projects
+ 1888  cd ai_projects
+ 1889  clear
+ 1890  python3.12
+ 1891  python3.11
+ 1892  python3.12 venv venv
+ 1893  python3.11 -m venv venv
+ 1894  source venv/bin/activate
+ 1895  pip install --upgrade pip
+ 1896  pip install TTS
+ 1897  clear
+ 1898  tts \\n--model_name tts_models/en/indic/vits \\n--text "India is a land of remarkable diversity and history." \\n--out_path speech.wav
+ 1899  tts --list_modesl
+ 1900  tts --list_models
+ 1901  tts --list_models | grep indi
+ 1902  tts --list_models | grep xtts
+ 1903  tts \\n--model_name tts_models/multilingual/multi-dataset/xtts_v2 \\n--text "India is a land of remarkable diversity and history." \\n--language_idx en \\n--out_path speech.wav
+ 1904  pip uninstall transformers -y\npip install "transformers==4.36.2"
+ 1905  tts \\n--model_name tts_models/multilingual/multi-dataset/xtts_v2 \\n--text "India is a land of remarkable diversity and history." \\n--language_idx en \\n--out_path speech.wav
+ 1906  pip install "torch>=2.0"\npip install "TTS==0.22.0"
+ 1907  pip uninstall TTS transformers tokenizers -y\n\npip install TTS\npip install transformers==4.36.2
+ 1908  tts \\n--model_name tts_models/multilingual/multi-dataset/xtts_v2 \\n--text "India is a civilization that has endured for thousands of years." \\n--language_idx en \\n--out_path test.wav
+ 1909  pip uninstall torch torchaudio -y\npip install torch==2.1.2 torchaudio==2.1.2
+ 1910  pip install --force-reinstall TTS
+ 1911  python -c "import torch; print(torch.__version__)"
+ 1912  python3 -c "import torch; print(torch.__version__)"
+ 1913  exit
+ 1914  cd Documents
+ 1915  cd ai_projects
+ 1916  source /bin/activate
+ 1917  history b| grep source
+ 1918  source venv/bin/activate
+ 1919  python -c "import torch; print(torch.__version__)"
+ 1920  tts \\n--model_name tts_models/multilingual/multi-dataset/xtts_v2 \\n--text "India is a land of remarkable diversity and history." \\n--language_idx en \\n--out_path speech.wav
+ 1921  cd ..
+ 1922  mkdir ai_project2
+ 1923  cd ai_project2
+ 1924  python3 -m venv venv
+ 1925  source venv/bin/activate
+ 1926  pip install TTS
+ 1927  clear
+ 1928  code .
+ 1929  ./main.py
+ 1930  python3 ./main.py
+ 1931  python3.11 ./main.py
+ 1932  tts --text "Text for TTS" --out_path ./speech.wav
+ 1933  tts --text "Text for TTS" --model_name "tts_models/multilingual/multi-dataset/xtts_v2" --out_path ./speech.wav
+ 1934  tts --text "Text for TTS" --model_name "tts_models/multilingual/multi-dataset/xtts" --out_path ./speech.wav
+ 1935  pip uninstall TTS torch torchaudio transformers tokenizers -y
+ 1936  pip install torch==2.1.2 torchaudio==2.1.2\npip install transformers==4.36.2\npip install TTS==0.22.0
+ 1937  python -c "import torch; print(torch.__version__)"
+ 1938  tts --text "Text for TTS" --model_name "tts_models/multilingual/multi-dataset/xtts_v2" --out_path ./speech.wav
+ 1939  tts \\n--model_name tts_models/multilingual/multi-dataset/xtts_v2 \\n--text "Text for TTS" \\n--speaker_idx 0 \\n--language_idx en \\n--out_path speech.wav
+ 1940  tts \\n--model_name tts_models/multilingual/multi-dataset/xtts_v2 \\n--text "Text for TTS" \\n--speaker_wav sample.wav \\n--language_idx en \\n--out_path speech.wav
+ 1941  tts \\n--model_name tts_models/multilingual/multi-dataset/xtts_v2 \\n--text "Text for TTS" \\n--speaker_wav sample.m4a \\n--language_idx en \\n--out_path speech.wav
+ 1942  afconvert sample.m4a sample.wav -f WAVE -d LEI16
+ 1943  tts \\n--model_name tts_models/multilingual/multi-dataset/xtts_v2 \\n--text "Text for TTS" \\n--speaker_wav sample.wav \\n--language_idx en \\n--out_path speech.wav
+ 1944  tts \\n--model_name tts_models/multilingual/multi-dataset/xtts_v2 \\n--text "This festival marks harvest time for Rabi crops" \\n--speaker_wav sample.wav \\n--language_idx en \\n--out_path speech.wav
+ 1945  afconvert sample.m4a sample.wav -f WAVE -d LEI16
+ 1946  tts \\n--model_name tts_models/multilingual/multi-dataset/xtts_v2 \\n--text_file input_text.txt \\n--speaker_wav input_voice.wav \\n--language_idx en \\n--out_path speech.wav
+ 1947  tts --help | grep -i text
+ 1948  tts \\n--model_name tts_models/multilingual/multi-dataset/xtts_v2 \\n--text_file input_text.txt \\n--speaker_wav input_voice.wav \\n--language_idx en \\n--out_path speech.wav
+ 1949  tts \\n--model_name tts_models/multilingual/multi-dataset/xtts_v2 \\n--text input_text.txt \\n--speaker_wav input_voice.wav \\n--language_idx en \\n--out_path speech.wav
+ 1950  tts \\n--model_name tts_models/multilingual/multi-dataset/xtts_v2 \\n--text_file_name input_text.txt \\n--speaker_wav input_voice.wav \\n--language_idx en \\n--out_path speech.wav
+ 1951  tts \\n--model_name tts_models/multilingual/multi-dataset/xtts_v2 \\n--text_file input_text.txt \\n--speaker_wav input_voice.wav \\n--language_idx en \\n--out_path speech.wav
+ 1952  tts \\n--model_name tts_models/multilingual/multi-dataset/xtts_v2 \\n--text ./input_text.txt \\n--speaker_wav input_voice.wav \\n--language_idx en \\n--out_path speech.wav
+ 1953  python main.py
+ 1954  clear
+ 1955  exit
+ 1956  cd Downloads
+ 1957  cd Baisakhi
+ 1958  clear
+ 1959  ls
+ 1960  ffmpeg -i input.m4a -ar 48000 -ac 2 output.wav
+ 1961  brew install ffmpeg
+ 1962  ffmpeg -i input.m4a -ar 48000 -ac 2 output.wav
+ 1963  ffmpeg -i input.m4a -af "highpass=f=100, loudnorm" -ar 48000 -ac 2 output_clean.wav
+ 1964  ffmpeg -i output.wav -af "highpass=f=80, lowpass=f=10000, dynaudnorm" output_clean.wav
+ 1965  ffmpeg -i output.wav -af "highpass=f=80, lowpass=f=50000, dynaudnorm" output_clean.wav
+ 1966  ffmpeg -i output.wav -af "highpass=f=800, lowpass=f=50000, dynaudnorm" output_clean.wav
+ 1967  ffmpeg -i output.wav -af "highpass=f=800, lowpass=f=500000, dynaudnorm" output_clean.wav
+ 1968  clear
+ 1969  cd ..
+ 1970  cd Baisakhi
+ 1971  ls
+ 1972  mkdir original_audios
+ 1973  mv *.m4a ./original_audios
+ 1974  mv *.wav ./original_audios
+ 1975  clear
+ 1976  ls
+ 1977  cd ..
+ 1978  mv baisakhi_* Baisakhi
+ 1979  history
+ 1980  ffmpeg -i baisakhi_ai.m4a -ar 48000 -ac 2 baisakhi_ai.wav
+ 1981  cd Baisakhi
+ 1982  ffmpeg -i baisakhi_ai.m4a -ar 48000 -ac 2 baisakhi_ai.wav
+ 1983  wget -c "https://nkprod-coredatastack-pa7jx42xiwhf-tasksbucket-13qb6gn1l5ooi.s3-accelerate.amazonaws.com/4dcafd3a-1d90-4e9a-8221-66642f09d246/result.wav\?X-Amz-Algorithm\=AWS4-HMAC-SHA256\&X-Amz-Content-Sha256\=UNSIGNED-PAYLOAD\&X-Amz-Credential\=AKIAUENQVYXORYD4N3EU%2F20260312%2Fus-east-1%2Fs3%2Faws4_request\&X-Amz-Date\=20260312T054903Z\&X-Amz-Expires\=86400\&X-Amz-Signature\=ae27e6ab7dd8a1577555dd6b58079ccbf2d7e21dd3d9a2957b0255acc2d74cee\&X-Amz-SignedHeaders\=host\&response-content-disposition\=attachment%3B%20filename%3D%22This%2520festival%2520marks%2520.wav%22\&x-amz-checksum-mode\=ENABLED\&x-id\=GetObject"
+ 1984  cd ..
+ 1985  ls
+ 1986  brew install --cask shotcut
+ 1987  brew install --cask kdenlive
+ 1988  brew uninstall --cask shotcut
+ 1989  brew cleanup
+ 1990  exit
+ 1991  cd Downloads
+ 1992  history | grep ff
+ 1993  ffmpeg -i Baisakhi_voiceover_final.m4a -ar 48000 -ac 2 Baisakhi_voiceover_final.wav
+ 1994  cd Downloads
+ 1995  ls
+ 1996  cd ..
+ 1997  cd Documents
+ 1998  clear
+ 1999  mkdir Projects
+ 2000  cd Projects
+ 2001  git clone https://github.com/securade/hub.git\ncd hub\npython -m venv .venv\nsource .venv/bin/activate\npip install -r requirements.txt
+ 2002  python3 -m pip --version
+ 2003  python3 -m pip install requests
+ 2004  python3 --version
+ 2005  python --version
+ 2006  echo 'export PATH="$HOME/Library/Python/3.9/bin:$PATH"' >> ~/.zshrc\nsource ~/.zshrc
+ 2007  python3 -m pip install --upgrade pip
+ 2008  python3 -m pip list
+ 2009  python3 -m venv .venv
+ 2010  source .venv/bin/activate
+ 2011  pip install -r requirements.txt
+ 2012  python3 securade.py --help
+ 2013  python securade.py --help
+ 2014  pip uninstall av
+ 2015  python securade.py --help
+ 2016  pip uninstall kasa python-kasa -y\npip install python-kasa==0.5.0
+ 2017  python securade.py --help
+ 2018  pip uninstall kasa python-kasa pytapo -y
+ 2019  pip install pytapo\npip install python-kasa==0.5.2
+ 2020  pip uninstall kasa python-kasa pytapo -y
+ 2021  pip install pytapo\npip install python-kasa==0.5.2
+ 2022  python securade.py --help
+ 2023  pip uninstall kasa python-kasa -y
+ 2024  pip install python-kasa==0.5.3
+ 2025  python securade.py --help
+ 2026  cat requirements.txt
+ 2027  python securade.py --help
+ 2028  pip uninstall kasa python-kasa pytapo -y
+ 2029  pip install pytapo\npip install python-kasa==0.5.2
+ 2030  python securade.py --help
+ 2031  rm -rf *
+ 2032  ls
+ 2033  cd ..
+ 2034  ls
+ 2035  rm -rf *
+ 2036  clear
+ 2037  ls
+ 2038  exit
+ 2039  history | grep pip
+ 2040  history | grep git
+ 2041  clear
+ 2042  exit
+ 2043  brew install conda
+ 2044  brew install --cask miniconda
+ 2045  conda init zsh
+ 2046  brew install fzf
+ 2047  $(brew --prefix)/opt/fzf/install
+ 2048  exit
+ 2049  conda --version
+ 2050  cd
+ 2051  cd Documents
+ 2052  clear
+ 2053  conda create -n facerec python=3.10 -y
+ 2054  conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/main\n    conda tos accept --override-channels --channel https://repo.anaconda.com/pkgs/r
+ 2055  conda create -n facerec python=3.10 -y
+ 2056  conda activate facerec
+ 2057  pip install opencv-python requests numpy
+ 2058  which python
+ 2059  conda deactivate facerec
+ 2060  conda deactivate 
+ 2061  ls | grep facerec
+ 2062  ls -a | grep face
+ 2063  ls -a
+ 2064  cd Projects
+ 2065  ls
+ 2066  clear
+ 2067  ls
+ 2068  conda create -n facerec python=3.10 -y
+ 2069  conda activate facerec
+ 2070  pip install opencv-python requests numpy
+ 2071  which python
+ 2072  git clone https://github.com/exadel-inc/CompreFace.git\ncd CompreFace
+ 2073  docker --version
+ 2074  brew install --cask docker
+ 2075  brew update && brew upgrade && brew install --cask docker
+ 2076  brew install --cask docker
+ 2077  docker --version
+ 2078  docker compose version
+ 2079  ls
+ 2080  docker compose up -d
+ 2081  docker ps
+ 2082  clear
+ 2083  touch test_recognize.py
+ 2084  nano test_recognize.py
+ 2085  ls |  grep test.jpg
+ 2086  python test_recognize.py
+ 2087  nano test_registration.py
+ 2088  ls |  grep test.jpg
+ 2089  cat test_recognize.py
+ 2090  cat test_registration.py
+ 2091  python test_recognize.py
+ 2092  python test_registration.py
+ 2093  nano test_registration.py
+ 2094  python test_registration.py
+ 2095  python test_recognize.py
+ 2096  nano test_recognize.py
+ 2097  python test_recognize.py
+ 2098  clear
+ 2099  ls | grep .jpg
+ 2100  ls | grep .py
+ 2101  curl http://localhost:8000
+ 2102  conda info --envs
+ 2103  clear
+ 2104  echo "Face Recognition service up and working"
+ 2105  cat history > face_recognition_setup.log
