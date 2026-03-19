@@ -1,5 +1,9 @@
-API_URL = "http://localhost:8000/api/v1/recognition"
-API_KEY = "b43b0f25-9b72-48ac-b22a-9b7f801fc31b"
+import os
+from dotenv import load_dotenv
 
-DB_PATH = "../data/db.json"
-THRESHOLD = 0.75
+load_dotenv()
+
+API_URL = os.getenv("API_URL")
+API_KEY = os.getenv("API_KEY")
+DB_PATH = os.getenv("DB_PATH", "../data/db.json")
+THRESHOLD = float(os.getenv("THRESHOLD", 0.75))
