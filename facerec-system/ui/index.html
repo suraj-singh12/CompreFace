@@ -1,48 +1,58 @@
-
 <!DOCTYPE html>
 <html>
+
 <head>
   <title>Face Recognition</title>
   <link rel="stylesheet" href="index.css">
 </head>
+
 <body>
 
-<div class="container">
-
-  <!-- LEFT -->
-  <div class="left">
-    <label class="upload-box">
-      <span id="uploadText">Choose Image</span>
-      <input type="file" id="file" onchange="preview()" hidden />
-    </label>
-
-    <img id="previewImg" class="hidden"/>
-
-    <button id="recognizeBtn" onclick="recognize()">Recognize</button>
-  </div>
-
-  <!-- RIGHT -->
-  <div class="right">
-
-    <div id="output" class="result"></div>
-
-    <div id="registerSection" class="hidden register">
-      <h3>Register</h3>
-      <input id="name" placeholder="Name"/>
-      <select id="gender">
-        <option value="">Select Gender (optional)</option>
-        <option value="male">Male</option>
-        <option value="female">Female</option>
-      </select>
-      <input id="comments" placeholder="Comments"/>
-      <button id="registerBtn" onclick="register()">Register</button>
+  <div class="app">
+    <div class="header">
+      <h1>Face Recognition System</h1>
+      <p>Identify. Register. Maintain.</p>
     </div>
 
+    <div class="container">
+
+      <!-- LEFT -->
+      <div class="left">
+        <label class="upload-box">
+          <span id="uploadText">Choose Image</span>
+          <input type="file" id="file" onchange="preview()" hidden />
+        </label>
+
+        <img id="previewImg" class="hidden" />
+
+        <button id="recognizeBtn" onclick="recognize()">Recognize</button>
+      </div>
+
+      <!-- RIGHT -->
+      <div class="right">
+
+        <div id="output" class="result"></div>
+
+        <div id="registerSection" class="hidden register">
+          <h3>Register</h3>
+          <input id="name" placeholder="Name" />
+          <select id="gender">
+            <option value="">Select Gender (optional)</option>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+          </select>
+          <input id="comments" placeholder="Comments" />
+          <button id="registerBtn" onclick="register()">Register</button>
+        </div>
+
+      </div>
+
+    </div>
   </div>
 
-</div>
 
-<script src="app.js"></script>
+  <script src="app.js"></script>
 
 </body>
+
 </html>

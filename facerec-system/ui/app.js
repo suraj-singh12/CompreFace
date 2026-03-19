@@ -122,9 +122,15 @@ function display(data) {
   else if (data.status === "unknown") {
     html = `
       <div class="title warning">Unknown Person</div>
-      <div>Please fill details to register</div>
+      <div>Fill details to register</div>
     `;
   } 
+  else if (data.status === "no_face") {
+    html = `
+      <div class="title warning">No Face Detected</div>
+      <div>Use a clear image with a visible face</div>
+    `;
+  }
   else if (data.status === "registered_new_user") {
     html = `
       <div class="title success">User Registered</div>
