@@ -2,77 +2,47 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Face Recognition UI</title>
-  <style>
-    body { font-family: Arial; padding: 20px; background: #111; color: #eee; }
-    .card { background: #222; padding: 20px; border-radius: 10px; width: 400px; }
-    input, button { margin-top: 10px; width: 100%; padding: 10px; }
-    button { background: #00bcd4; border: none; cursor: pointer; }
-    img { margin-top: 10px; max-width: 100%; }
-    .result { margin-top: 15px; padding: 10px; background: #333; border-radius: 5px; }
-  </style>
+  <title>Face Recognition</title>
+  <link rel="stylesheet" href="index.css">
 </head>
 <body>
 
-<h2>Face Recognition System</h2>
+<div class="container">
 
-<div class="card">
-  <input type="file" id="file" />
-  
-  <button onclick="recognize()">Recognize</button>
-  <button onclick="register()">Register</button>
+  <!-- LEFT -->
+  <div class="left">
+    <label class="upload-box">
+      <span id="uploadText">Choose Image</span>
+      <input type="file" id="file" onchange="preview()" hidden />
+    </label>
 
-  <div class="result" id="output"></div>
+    <img id="previewImg" class="hidden"/>
+
+    <button id="recognizeBtn" onclick="recognize()">Recognize</button>
+  </div>
+
+  <!-- RIGHT -->
+  <div class="right">
+
+    <div id="output" class="result"></div>
+
+    <div id="registerSection" class="hidden register">
+      <h3>Register</h3>
+      <input id="name" placeholder="Name"/>
+      <select id="gender">
+        <option value="">Select Gender (optional)</option>
+        <option value="male">Male</option>
+        <option value="female">Female</option>
+      </select>
+      <input id="comments" placeholder="Comments"/>
+      <button id="registerBtn" onclick="register()">Register</button>
+    </div>
+
+  </div>
+
 </div>
 
-<script>
-const API = "http://127.0.0.1:8001";
-
-async function recognize() {
-  const file = document.getElementById("file").files[0];
-  if (!file) return alert("Upload image");
-
-  const form = new FormData();
-  form.append("file", file);
-
-  const res = await fetch(`${API}/recognize`, {
-    method: "POST",
-    body: form
-  });
-
-  const data = await res.json();
-  display(data);
-}
-
-async function register() {
-  const file = document.getElementById("file").files[0];
-  if (!file) return alert("Upload image");
-
-  const name = prompt("Enter name:");
-  const gender = prompt("Enter gender (optional):");
-  const comments = prompt("Comments:");
-
-  const form = new FormData();
-  form.append("file", file);
-  form.append("name", name);
-  form.append("gender", gender);
-  form.append("comments", comments);
-
-  const res = await fetch(`${API}/register`, {
-    method: "POST",
-    body: form
-  });
-
-  const data = await res.json();
-  display(data);
-}
-
-function display(data) {
-  document.getElementById("output").innerHTML =
-    "<pre>" + JSON.stringify(data, null, 2) + "</pre>";
-}
-</script>
+<script src="app.js"></script>
 
 </body>
 </html>
-
