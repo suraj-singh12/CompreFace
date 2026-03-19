@@ -40,11 +40,11 @@ async def recognize(file: UploadFile = File(...)):
     face = res["result"][0]
     subjects = face.get("subjects", [])
 
-    # predicted attributes
+    # -------- CompreFace predicted --------
     gender_data = face.get("gender", {})
     age_data = face.get("age", {})
         
-    gender = gender_data.get("value")
+    computed_gender = gender_data.get("value")
      
     age = None
     if "low" in age_data and "high" in age_data:
@@ -54,20 +54,30 @@ async def recognize(file: UploadFile = File(...)):
         sid = subjects[0]["subject"]
         addl_info = db.get(sid, {})
 
+        # -------- Gender selection logic --------
+        saved_gender = addl_info.get("gender")
+
+        if saved_gender:
+            final_gender = f"{saved_gender} (saved)"
+        elif computed_gender:
+            final_gender = f"{computed_gender} (computed)"
+        else:
+            final_gender = None
+
         return {
             "status": "recognized",
             "subject_id": sid,
             "similarity": subjects[0]["similarity"],
             "name": addl_info.get("name"),
             "age": age,
-            "gender": gender,
+            "gender": final_gender,
             "comments": addl_info.get("comments")
         }
     
     return {
         "status": "unknown",
         "age": age,
-        "gender": gender
+        "gender": computed_gender
     }
 
 
@@ -75,7 +85,8 @@ async def recognize(file: UploadFile = File(...)):
 async def register(
     file: UploadFile = File(...),
     name: str = Form(...),
-    comments: str = Form("")
+    gender: str = Form(""),
+    comments: str = Form(""),
 ):
     db = load_db()
     image_bytes = await file.read()
@@ -106,7 +117,7 @@ async def register(
                         "name": db[sid].get("name")
                     }
 
-                # add new image to same subject
+                # add image
                 requests.post(
                     f"{API_URL}/faces",
                     headers={"x-api-key": API_KEY},
@@ -125,7 +136,8 @@ async def register(
             # 🪖 Case 2: Exists in CompreFace but not in DB
             db[sid] = {
                 "name": name,
-                "comments": comments
+                "comments": comments,
+                "gender": gender if gender else None
             }
             save_db(db)
 
@@ -155,7 +167,8 @@ async def register(
 
     db[subject_id] = {
         "name": name,
-        "comments": comments
+        "comments": comments,
+        "gender": gender if gender else None
     }
     save_db(db)
 
