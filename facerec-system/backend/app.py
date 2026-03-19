@@ -1,4 +1,4 @@
-
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi import UploadFile, File, Form, FastAPI
 import requests
 import json
@@ -6,6 +6,14 @@ import time
 from config import API_URL, API_KEY, DB_PATH, THRESHOLD
 
 app = FastAPI()
+app.add_middleware(
+    CORSMiddleware,
+#    allow_origins=["*"],  # for dev only
+    allow_origins=["http://localhost:3000"],
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 # -------- DB --------
 def load_db():
