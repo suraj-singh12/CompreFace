@@ -28,19 +28,6 @@ Enriched Response
 
 ---
 
-## 📁 Project Structure
-
-```
-facerec-system/
-  ├── backend/
-  │     ├── app.py
-  │     └── config.py
-  ├── data/
-  │     └── db.json
-```
-
----
-
 ## ⚙️ Setup
 
 ### 1. Install dependencies
@@ -155,21 +142,6 @@ Store metadata in DB
 
 ---
 
-## 📦 Data Storage
-
-### `db.json`
-
-```json
-{
-  "user_1710000000": {
-    "name": "John",
-    "additional_details": "Employee ID: 1023"
-  }
-}
-```
-
----
-
 ## ⚠️ Notes
 
 * Age & gender are **predicted**, not stored
@@ -202,22 +174,7 @@ uvicorn app:app --reload --port 8001
 ## 🧠 Design Principle
 
 > CompreFace handles vision.
-> Your backend handles identity.
+> Backend handles identity.
+
 
 ---
-
-## 📌 Future Improvements
-
-* Replace JSON DB with PostgreSQL
-* Add authentication
-* Build frontend UI
-* Add duplicate detection logic
-* Batch processing support
-
----
-
-## 🧾 License
-
-Use freely. Maintain responsibly.
-
-This is clean enough to hand to another engineer without them asking 20 questions.
